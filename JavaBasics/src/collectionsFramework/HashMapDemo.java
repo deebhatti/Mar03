@@ -17,7 +17,7 @@ public class HashMapDemo {
 		}
 		
 		
-		
+		//Adding a comment at the end of the code
 		
 		
 	}
